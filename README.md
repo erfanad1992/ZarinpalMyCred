@@ -1,2 +1,2 @@
-# zibal-gateway-for-mycred
-# zibal-gateway-for-mycred
+# zarinpal-gateway-for-mycred
+# zarinpal-gateway-for-mycred
